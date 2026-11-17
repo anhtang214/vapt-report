@@ -14,7 +14,7 @@ A black-box vulnerability assessment and penetration test against a simulated cl
 
 ## Report
 
-See `Penetration-Test-Report.docx` for the full report.
+See `Penetration-Test-Report.pdf` for the full report.
 
 ## Context
 
